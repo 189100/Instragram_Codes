@@ -8,3 +8,4 @@ while True:
     webbrowser.open(visit)
     seconds = random.randrange(5, 20)
     time.sleep(seconds)
+    
