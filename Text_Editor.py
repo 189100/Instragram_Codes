@@ -1,4 +1,4 @@
-"   @author everydaycoadings    "
+"   @author everydaycoadings   "
 # A GUI Program OF A TextEditor
 
 import tkinter as tk
