@@ -31,7 +31,7 @@ result = response_ob.json()
 
 # Now result contains list of nested dictionaries 
 # Check the value of "response_code" key is equal 
-# to "200" or not if equal that means record is 
+# to "200" or not if equal that means record is
 # found otherwise record is not found 
 if result["response_code"] == 200 : 
 
