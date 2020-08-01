@@ -6,8 +6,7 @@ This codes are small but they are avery usefull and makes your experience better
 ![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p1.png)
 ![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p2.jpg)
 ![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p4.jpg)
-![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p5.png)
-![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p6.png)
-
+![](https://github.com/everydaycodings/Instragram_Codes/blob/master/Pics/p5.jpg)
+![and_many_more....](https://www.instagram.com/everydaycodings/)
 
 [My Instagram Account](https://www.instagram.com/everydaycodings/)
